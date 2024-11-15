@@ -1,7 +1,8 @@
-title: "Fizik askina"
-date: 5.06.2024
-subtitle: "yazar: Walter Levin"
-author: "sunan: Asli Erdemli"
+---
+title: "Emotions épistémiques"
+date: 19.Nov.2024
+author: "Asli Erdemli"
+subtitle: "Approches Cognitives de l'Emotion"
 slide-number: true
 transition: slide
 preview-links: true
@@ -10,7 +11,63 @@ chalkboard: true
 
 format: 
     revealjs:
-        theme: night
+        theme: default
         smaller: true
-        scrollable: true
+        scrollable: false
+        logo: logo_unige.png
+        #footer: "Approches Cognitives de l'Emotion - Emotions Epistemiques - 2024"
 editor: visual
+---
+
+
+## Emotions épistémiques
+
+2 catégories d’émotions sont particulièrement pertinentes pour étudier l’impact des émotions sur l’apprentissage (Pekrun & Linnenbrink-Garcia, 2014; Pekrun & Stephens, 2012): 
+
+- Les émotions d'accomplissement 
+- Les émotions épistémiques
+
+
+::: {.callout-caution}
+## A vous de jouer
+Qu'est ce qu'une émotion d'accomplissement ? Donner une définition et des exemples.
+:::
+
+## Emotions épistémiques
+::: {.callout-note}
+## Définition
+Les émotions épistémiques sont les émotions relatives à la qualité cognitive des informations de la tâche et du traitement de ces informations (Pekrun \& Linnenbrink-Garcia, 2014).
+:::
+
+Les émotions d'accomplissement et les émotions épistémiques se distinguent par leur objet. Ex: Anxiété.
+
+Epistemically-Related Emotion Scale (EES; Pekrun, Vogl, Muis \& Sinatra, 2017).
+
+
+:::: {.columns}
+
+::: {.column width="60%"}
+![](epistemic_emotions_scale.png)
+
+
+:::
+
+::: {.column width="30%"}
+- Surprise 
+- Confusion
+- Curiosité
+- Plaisir
+- Ennui 
+- Anxiété 
+- Frustration
+:::
+
+::::
+
+
+
+
+
+
+       
+
